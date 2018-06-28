@@ -133,6 +133,7 @@ p {
     justify-content: center;
 }
 
+
 .bottom-content {
     display: flex;
     margin: 0 2% 1.25rem;
@@ -146,6 +147,7 @@ p {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
+
 
 footer {
     width: 100%;
